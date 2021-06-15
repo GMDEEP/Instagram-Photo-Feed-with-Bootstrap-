@@ -1,6 +1,10 @@
 #profile{
     background-color: lightgray;
 }
+.rowdivide{
+        background-color: lightgray;
+        height: 10px;
+}
 h2{
     text-align: left;
     justify-content: left;
@@ -12,4 +16,7 @@ p{
    padding-left: 10px;
    padding-right: 10px;
    padding-bottom: 5px;
+}
+.instagramfont{
+    font-family: 'Dancing Script', cursive;
 }
