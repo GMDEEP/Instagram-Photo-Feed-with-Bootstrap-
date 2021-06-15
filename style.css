@@ -1,4 +1,12 @@
-.container{
+h2{
+    text-align: left;
+    justify-content: left;
     width: 100%;
-    
+    border: dotted red;
+}
+p{
+    padding-top: 5px;
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-bottom: 5px;
 }
